@@ -1,0 +1,15 @@
+body {
+  background-color: #ebf2ff;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.nav-link {
+  font-weight: bold;
+}
+form {
+  margin-left: auto;
+}
+#taskdescription {
+  width: 100%;
+}
